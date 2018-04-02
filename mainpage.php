@@ -1,0 +1,1 @@
+<script>window.location.href = 'http://localhost:8085/AuthorizationRequestForm/frontpage.php';</script>
